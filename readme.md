@@ -23,7 +23,7 @@ FedBCGD 是一种**通信高效的加速块坐标梯度下降算法**，通过�
 python >= 3.8
 torch >= 1.10
 torchvision
-ray
+ray==1.0.0
 numpy
 matplotlib
 tensorboardX
@@ -169,3 +169,4 @@ tensorboard --logdir runs
 ---
 
 是否希望我为你生成一个可直接保存的 `README.md` 文件（UTF-8 编码）？我可以帮你导出。
+
