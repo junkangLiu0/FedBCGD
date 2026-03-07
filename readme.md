@@ -4,6 +4,12 @@
 本仓库提供论文 **“FedBCGD: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning”** 的官方实现。
 FedBCGD 是一种**通信高效的加速块坐标梯度下降算法**，通过在联邦学习中对模型参数进行分块更新和动量式聚合，加快收敛速度并降低通信代价。
 
+* 一张4090或者两张2080ti即可训练！！发顶会！！代码问题或者讨论+vx 15653218567
+
+* 我的其他论文也都是这一套代码配置，均可复现！
+
+* 个人主页：https://junkangliu0.github.io/
+* 
 ---
 
 ## 🧩 主要特性
@@ -169,4 +175,5 @@ tensorboard --logdir runs
 ---
 
 是否希望我为你生成一个可直接保存的 `README.md` 文件（UTF-8 编码）？我可以帮你导出。
+
 
